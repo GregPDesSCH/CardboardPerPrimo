@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/PrimoScene1.unity
+- path: Assets/Scenes/PrimoScene2.unity
   isLoaded: 1
   isActive: 1

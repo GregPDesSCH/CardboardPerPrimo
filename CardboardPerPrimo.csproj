@@ -196,9 +196,10 @@
     <Compile Include="Assets\Scripts\BeadSphere.cs" />
     <Compile Include="Assets\Scripts\Orbiter.cs" />
     <Compile Include="Assets\Scripts\OrbiterWithParticles.cs" />
+    <Compile Include="Assets\Scripts\OrbiterWithRandomRotation.cs" />
     <Compile Include="Assets\Scripts\PrimoRotatingCube.cs" />
     <Compile Include="Assets\Scripts\TopHatStickFigure.cs" />
-    <Compile Include="Assets\TriangleRingParticles.cs" />
+    <Compile Include="Assets\Scripts\TriangleRingParticles.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\GoogleVR\Demos\Environment\DemoEnvUnlitGrayscale.shader" />
